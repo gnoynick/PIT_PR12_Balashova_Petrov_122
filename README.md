@@ -10,7 +10,7 @@
 Были задокументированны: 
 - класс: `EditRoutePage`
 - переменные: `_userId` и `_routeId`
-- списки: `Categories`, `RoutePoints` и `string (_photoPaths)`
+- списки: `Categories`, `RoutePoints` и `_photoPaths`
 - конструктор: `EditRoutePage`
 - методы: `LoadRouteData` и `LoadCategories`
 
