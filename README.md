@@ -7,4 +7,11 @@
 
 ## Выполнение работы:
 
-выполненная работа представлена в файле "Листинг 1".
+Были задокументированны: 
+- класс: `EditRoutePage`
+- переменные: `_userId` и `_routeId`
+- списки: `Categories`, `RoutePoints` и `string (_photoPaths)`
+- конструктор: `EditRoutePage`
+- методы: `LoadRouteData` и `LoadCategories`
+
+Выполненная работа представлена в файле "Листинг 1".
